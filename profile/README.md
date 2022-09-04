@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="./snow-builds-word-2.png" alt="SnowBuilds Logo" align="center" />
+<img src="https://github.com/SnowBuilds/.github/blob/main/profile/snow-builds-word-2.png?raw=true" alt="SnowBuilds Logo" align="center" />
 <br/>
 <h3 align="center">Cool Builds and Libs</h3>
 </p>
