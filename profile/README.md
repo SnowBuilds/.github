@@ -11,15 +11,15 @@
 
 
 <p align="center">
-<img src="https://github.com/SnowBuilds/.github/blob/main/profile/snow-builds-word-2.png?raw=true" alt="SnowBuilds Logo" align="center" />
+<img src="https://github.com/SnowBuilds/.github/blob/main/profile/SnowLabs.webp?raw=true" alt="SnowBuilds Logo" align="center" />
 <br/>
-<h3 align="center">Cool Builds and Libs</h3>
+<h3 align="center">building web services and apps</h3>
 </p>
 
 ---
 
 ## Projects In Progress
-- [ ] Pokemon Card Lookup
+- [ ] Pokemon Evolution 
 - [ ] Subscription Box Catalog
 - [ ] Rust Web Framework
 - [ ] GitHub Actions
