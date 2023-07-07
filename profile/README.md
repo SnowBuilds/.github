@@ -9,7 +9,7 @@
 <!-- <br/> -->
 <h3 align="center">building web services and apps</h3>
 <br />
-  <a href="mailto:info@snowlaboratory.com">info@snowlaboratory.com</a>
+  <a align="center" href="mailto:info@snowlaboratory.com">info@snowlaboratory.com</a>
 </p>
 
 ---
