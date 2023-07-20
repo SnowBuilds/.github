@@ -17,4 +17,4 @@
 ---
 
 ## Projects In Progress
-- [ ] SparkX - Spotify History & Stats 
+- [ ] SparkX - Spotify History, Stats & Insights 
