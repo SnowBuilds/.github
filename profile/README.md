@@ -15,6 +15,3 @@
 </p>
 
 ---
-
-## Projects In Progress
-- [ ] SparkX - Spotify History, Stats & Insights 
